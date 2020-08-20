@@ -2,7 +2,7 @@
 
 Image based on **Linux Alpine** with **OpenJDK 8** and the 4.6.0 Beta version of **Openfire**.
 
-It supports custom **openfire.xml** file with **<autosetup>** tag - **thanks to it manual wizard setup is no longer necessary**.
+It supports custom **openfire.xml** file with **&lt;autosetup&gt;** tag - **thanks to it manual wizard setup is no longer necessary**.
 
 It automatically creates **admin** account with password **admin** and 3 users from **openfire.xml**.
 
